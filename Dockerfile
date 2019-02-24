@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.9
 MAINTAINER Shinnosuke Sawada <6warashi9@gmail.com>
 
 ENV HUGO_VERSION 0.54.0
